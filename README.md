@@ -15,6 +15,9 @@ Es te zoom in i zoom out.
 Visualitzar/amagar les línies divisòries.
 I el mode RAINBOW...
 
+a
+b
+
 
 La Seed presentada:
 
