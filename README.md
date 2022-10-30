@@ -6,7 +6,7 @@ La carpeta src/ conté le codi en Java, el projecte sencer.
 El fitxer conway.exe es l'executable generat a partir del projecte.
 
 
-FUNCIONAMENT
+<<FUNCIONAMENT>>
 
 A l'executar es te diferents modes:
 
@@ -22,7 +22,7 @@ I el mode RAINBOW...
 
 
 
-SEED
+<<SEED>>
 
 La seed que es vol presentar dona importància al "Color-Preseving" dels "gliders" en interactuar amb els "reflectors".
 
