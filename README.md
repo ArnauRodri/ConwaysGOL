@@ -6,20 +6,23 @@ La carpeta src/ conté le codi en Java, el projecte sencer.
 El fitxer conway.exe es l'executable generat a partir del projecte.
 
 
-Funcionament:
+FUNCIONAMENT
 
 A l'executar es te diferents modes:
+
 Step - Cada vegada que es polsa el botó es fa un pas en el joc.
+
 Run/Pause - Al prémer es fa córrer el programa contínuament (es poden canviar les velocitats).
+
 Es te zoom in i zoom out.
+
 Visualitzar/amagar les línies divisòries.
+
 I el mode RAINBOW...
 
-a
-b
 
 
-La Seed presentada:
+SEED
 
 La seed que es vol presentar dona importància al "Color-Preseving" dels "gliders" en interactuar amb els "reflectors".
 
