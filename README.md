@@ -1,7 +1,8 @@
 # ConwaysGOL
-Projecte Conway's Game Of Life per als problemes previs als dailyhacks2022
+Projecte Conway's Game Of Life per als problemes dailyhacks2022
 
-La carpeta Java, conté le codi en Java, el projecte sencer.
+La carpeta src/ conté le codi en Java, el projecte sencer.
+El fitxer conway.exe es l'executable generat a partir del projecte.
 
 FUNCIONAMENT
 A l'executar es te diferents modes:
