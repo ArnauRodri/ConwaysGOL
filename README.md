@@ -4,11 +4,11 @@ Projecte Conway's Game Of Life per als problemes dailyhacks2022
 La carpeta src/ conté le codi en Java, el projecte sencer.
 El fitxer conway.exe es l'executable generat a partir del projecte.
 
-FUNCIONAMENT
+Funcionament:
 A l'executar es te diferents modes:
 Step - Cada vegada que es polsa el botó es fa un pas en el joc.
 Run/Pause - Al prémer es fa córrer el programa contínuament (es poden canviar les velocitats).
-Es te zoom in i zoom out
+Es te zoom in i zoom out.
 Visualitzar/amagar les línies divisòries.
 I el mode RAINBOW...
 
