@@ -24,9 +24,9 @@ I el mode RAINBOW...
 
 ### SEED
 
-La seed que es vol presentar dona importància al "Color-Preseving" dels "gliders" en interactuar amb els "reflectors".
+La seed que es vol presentar dona importància al "Color-Preserving" dels "gliders" en interactuar amb els "reflectors".
 
-Els "gliders" (conwaylife.com/wiki/Glider) tenen una propietat, el "color". El "color" es una propietat que diu que el "glider" manté la configuració d'ell al llarg del camp. O sigui, el "glider" te 4 estats diferents, son simètrics a 2, i el color es l'estat del "glider". Llavors, el "Color-Preservin" vol dir que en tot el camp els "gliders" únicament son rotats, pero no "desfasats en la linia temporal", cada "glider" es una copia dels altres.
+Els "gliders" (conwaylife.com/wiki/Glider) tenen una propietat, el "color". El "color" es una propietat que diu que el "glider" manté la configuració d'ell al llarg del camp. O sigui, el "glider" te 4 estats diferents, son simètrics a 2, i el "color" es l'estat del "glider". Llavors, el "Color-Preserving" vol dir que en tot el camp els "gliders" únicament son rotats, pero no "desfasats en la linia temporal", cada "glider" es una copia dels altres.
 
 Considero que el "Color-Preserving" es de gran importància, si es volen construir sistemes, ja que al mantenir el "color" permet simplificar els "protocols" i facilitar concatenacions entre diferents elements que interactuen amb els "gliders".
 
